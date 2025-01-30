@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "454052655606",
+    "firebase_url": "https://dfile-99af8-default-rtdb.firebaseio.com",
+    "project_id": "dfile-99af8",
+    "storage_bucket": "dfile-99af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454052655606:android:b7fe4f977ae82cce1c97d7",
+        "android_client_info": {
+          "package_name": "com.epsoldev.jinnahent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67KwoqHFwxuEx33719uT17-jQnBFBflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454052655606:android:41bcad021da5a9811c97d7",
+        "android_client_info": {
+          "package_name": "com.example.a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67KwoqHFwxuEx33719uT17-jQnBFBflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454052655606:android:1d842cb716778ec21c97d7",
+        "android_client_info": {
+          "package_name": "com.example.dfile_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67KwoqHFwxuEx33719uT17-jQnBFBflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454052655606:android:29897930292254dc1c97d7",
+        "android_client_info": {
+          "package_name": "com.example.fyp_7th"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67KwoqHFwxuEx33719uT17-jQnBFBflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454052655606:android:8fa37b3cd43b5e1a1c97d7",
+        "android_client_info": {
+          "package_name": "com.example.loan_app_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC67KwoqHFwxuEx33719uT17-jQnBFBflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

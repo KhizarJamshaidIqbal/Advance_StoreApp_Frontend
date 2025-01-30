@@ -1,0 +1,29 @@
+class Routes {
+  static const String splash = '/splash';
+  static const String signIn = '/sign-in';
+  static const String signUp = '/sign-up';
+  static const String forgotPassword = '/forgot-password';
+  static const String emailVerification = '/email-verification';
+  static const String customBottomNavigationBar = '/';
+  static const String home = '/home';
+  static const String settings = '/settings';
+  static const String profile = '/profile';
+  static const String explore = '/explore';
+  static const String wishlist = '/wishlist';
+  static const String order = '/order';
+  static const String productDetails = '/product-details';
+  static const String cart = '/cart';
+  static const String checkoutScreen = '/checkout-screen';
+  static const String trackOrder = '/track-order';
+  static const String orderHistory = '/order-history';
+  static const String helpCenter = '/help-center';
+  static const String termsOfService = '/terms-of-service';
+  static const String faqs = '/faqs';
+  static const String allCategories = '/all-categories';
+  static const String allPopularItems = '/all-popular-items';
+  static const String allRecommendedItems = '/all-recommended-items';
+  static const String reservation_screen = '/reservation-screen';
+  static const String reservation_summary_screen = '/reservation-summary-screen';
+  static const String my_reservations_screen = '/my-reservations-screen';
+  static const String onboarding = '/onboarding';
+}
